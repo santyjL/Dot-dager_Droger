@@ -34,4 +34,4 @@ Dot.Dager, divulgador de software y vendedor de falopa.
 **Pagina oficial de reflex:**[ https://reflex.dev/](https://reflex.dev/)
 <br/>
 
-**Link de la pagina web:**[https://dager-droger.reflex.run/](https://dager-droger.reflex.run/)
+**Link de la pagina web:**[https://dager-droger.reflex.run/](https://dager-droger.reflex.run/) (ya no existe este link ni la pagina)
